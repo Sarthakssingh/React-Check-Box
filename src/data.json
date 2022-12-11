@@ -1,0 +1,81 @@
+{
+  "productsList": [
+    {
+      "id": 1,
+      "title": "Banglore",
+      "JobName": "Angular Developer",
+      "category": "first",
+      "CompanyName": "tcs",
+      "Expreince": "1 to 3yrs",
+      "Salary": "3-5 LPA",
+      "Location": "Chanai",
+      "Description": "acsdsd....Lorem"
+    },
+    {
+      "id": 2,
+      "title": "Pune",
+      "category": "second",
+      "JobName": "Angular Developer",
+      "CompanyName": "tcs",
+      "Expreince": "1 to 3yrs",
+      "Salary": "3-5 LPA",
+      "Location": "Chanai",
+      "Description": "acsdsd....Lorem"
+    },
+    {
+      "id": 3,
+      "title": "Chennai",
+      "category": "third",
+      "JobName": "Angular Developer",
+      "CompanyName": "tcs",
+      "Expreince": "1 to 3yrs",
+      "Salary": "3-5 LPA",
+      "Location": "Chanai",
+      "Description": "acsdsd....Lorem"
+    },
+    {
+      "id": 4,
+      "title": "Noida",
+      "category": "fourth",
+      "JobName": "Angular Developer",
+      "CompanyName": "tcs",
+      "Expreince": "1 to 3yrs",
+      "Salary": "3-5 LPA",
+      "Location": "Chanai",
+      "Description": "acsdsd....Lorem"
+    },
+    {
+      "id": 5,
+      "title": "Hydrabad",
+      "category": "fifth",
+      "JobName": "Angular Developer",
+      "CompanyName": "tcs",
+      "Expreince": "1 to 3yrs",
+      "Salary": "3-5 LPA",
+      "Location": "Chanai",
+      "Description": "acsdsd....Lorem"
+    },
+    {
+      "id": 6,
+      "title": "Coimbatore",
+      "category": "sixth",
+      "JobName": "Angular Developer",
+      "CompanyName": "tcs",
+      "Expreince": "1 to 3yrs",
+      "Salary": "3-5 LPA",
+      "Location": "Chanai",
+      "Description": "acsdsd....Lorem"
+    },
+    {
+      "id": 7,
+      "title": "Gurugram",
+      "category": "seventh",
+      "JobName": "Angular Developer",
+      "CompanyName": "tcs",
+      "Expreince": "1 to 3yrs",
+      "Salary": "3-5 LPA",
+      "Location": "Chanai",
+      "Description": "acsdsd....Lorem"
+    }
+  ]
+}
